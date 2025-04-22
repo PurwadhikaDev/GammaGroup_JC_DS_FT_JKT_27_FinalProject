@@ -51,6 +51,8 @@ By investing in the creation of HR promotion automation tools, **the cost of pro
 
 ![image](https://github.com/user-attachments/assets/64d26a4d-18e1-4b6b-8aa3-096396eda038)
 
+## Stakeholder
+HR Managers are the natural owners of the promotion prediction model because they uniquely bridge data, strategy, and ethics. Ultimately, HR's role transforms raw analytics into fair, actionable talent decisions while protecting both company interests and employee trust. Without this stewardship, even the most accurate model could erode workplace morale or expose the organization to compliance risks.
 
 Streamlit: ([Streamlit Employee Promotion](https://group-gamma-promotion-prediction.streamlit.app/))
 
